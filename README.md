@@ -2,4 +2,4 @@
 
 
 - 🔭 Atualmente nao estou trabalhando
-- 🌱 Estou estudando Python e Javascript
+- 🌱 Estou estudando Python
