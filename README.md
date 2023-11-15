@@ -3,4 +3,4 @@
 - 🖳 I'm currently learning Python
 
 
-![Python](https://cdn-icons-png.flaticon.com/256/2/2181.png)
+![Python](https://cdn-icons-png.flaticon.com/128/1822/1822921.png)
