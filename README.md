@@ -7,6 +7,6 @@
 
 <div>
   <a href="https://github.com/gmarrtinss">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gmarrtinss&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmarrtinss&layout=compact&langs_count=16&theme=shades-of-purple"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=gmarrtinss&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmarrtinss&layout=compact&langs_count=16&theme=shades-of-purple"/>
 <div>
