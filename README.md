@@ -1,8 +1,10 @@
 # **Hello welcome to my profile 👋**
 
-**- 🖳 I'm currently learning Python**
+**- 🖳 Software engineering student | Currently studying Java and Python**
 
-![Python](https://cdn-icons-png.flaticon.com/128/2621/2621303.png)
+![Java](https://cdn-icons-png.flaticon.com/256/644/644609.png)
+![Python](https://cdn-icons-png.flaticon.com/256/8419/8419963.png)
+
 
 <div>
   <a href="https://github.com/gmarrtinss">
