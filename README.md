@@ -3,7 +3,7 @@
 **- 🖳 Software engineering student | Currently studying Java and Python**
 
 ![Java](https://cdn-icons-png.flaticon.com/256/644/644609.png)
-![Python](https://cdn-icons-png.flaticon.com/256/8419/8419963.png)
+![Python](https://cdn-icons-png.flaticon.com/256/8422/8422225.png)
 
 
 <div>
