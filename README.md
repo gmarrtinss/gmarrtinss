@@ -4,7 +4,7 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://cdn-icons-png.flaticon.com/128/3291/3291669.png" width="130" height="130"/>
-  <img src="https://i.pinimg.com/736x/c5/e3/c2/c5e3c2f5e09713ea7bc42a4231401a16.jpg" width="130" height="130"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/1822/1822899.png" width="130" height="130"/>
 </div>
 
 <div>
