@@ -3,7 +3,7 @@
 **- 🖳 Software engineering student | Currently studying Java and Python**
 
 <div style="display: flex; align-items: center;">
-  <img src="https://cdn-icons-png.flaticon.com/256/644/644609.png" width="130" height="130"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" width="130" height="130"/>
   <img src="https://cdn-icons-png.flaticon.com/256/8422/8422225.png" width="130" height="130"/>
 </div>
 
