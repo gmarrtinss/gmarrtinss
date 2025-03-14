@@ -2,10 +2,7 @@
 
 **- 🖳 Software engineering student | Currently studying Java and Python**
 
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn-icons-png.flaticon.com/128/3291/3291669.png" width="130" height="130"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/1822/1822899.png" width="130" height="130"/>
-</div>
+
 
 <div>
   <a href="https://github.com/gmarrtinss">
