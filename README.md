@@ -17,6 +17,7 @@
           
             
 ---
+![Snake animation](https://github.com/gmarrtinss/gmarrtinss/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
   <a href="https://github.com/gmarrtinss" target="_blank">
