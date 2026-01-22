@@ -2,8 +2,8 @@
 ---
 
 - 🤔 Exploring new technologies and developing software solutions.
-- 🎓 Studying **Software engineering**.
-- 🌱 Learning more about **Java** and **Python**.
+- 🎓 Studying **Software engineering** and **Computer science student at the Federal Institute of Education, Science and Technology of Amazonas**.
+- 🌱 Development Intern focused on RPA and Automation.
 
 
 ---
